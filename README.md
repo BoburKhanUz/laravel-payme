@@ -3,7 +3,7 @@
 ## Installation
 
 ```bash
-composer require khamdullaevuz/laravel-payme
+composer require BoburKhanUz/laravel-payme
 ```
 
 ## Configuration
