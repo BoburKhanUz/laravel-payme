@@ -29,4 +29,13 @@
       }
     }
   }
+
+  "repositories": [
+    {
+        "type": "vcs",
+        "url": "https://github.com/BoburKhanUz/laravel-payme.git"
+    }
+]
+
+  
 }
