@@ -1,7 +1,7 @@
 {
   "minimum-stability": "dev",
   "prefer-stable": true
-  "name": "khamdullaevuz/laravel-payme",
+  "name": "BoburKhanUz/laravel-payme",
   "description": "Laravel Payme",
   "type": "library",
   "authors": [
