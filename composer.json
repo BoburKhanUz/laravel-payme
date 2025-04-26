@@ -1,4 +1,6 @@
 {
+  "minimum-stability": "dev",
+  "prefer-stable": true
   "name": "khamdullaevuz/laravel-payme",
   "description": "Laravel Payme",
   "type": "library",
